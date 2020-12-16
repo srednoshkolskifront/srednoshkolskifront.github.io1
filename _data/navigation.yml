@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "За нас"
-    url: /about/
-  - title: "Објави"
-    url: /blog/
+  # - title: "За нас"
+  #   url: /about/
+  # - title: "Објави"
+  #   url: /blog/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
